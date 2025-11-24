@@ -1,6 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SeokHwan's_Github&fontSize=90)
 <div algin="center">
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SeokHwan's_Github&fontSize=90)
-
   ## 🚀 기술 스택
   
   <table>
